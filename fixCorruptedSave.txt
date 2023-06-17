@@ -1,0 +1,24 @@
+# this tutorial was taken from https://www.reddit.com/r/DarkSouls2/comments/490b5f/found_a_fix_for_corrupted_manual_backups_save/
+Step by step guide:
+
+Note - Be careful not to select "Yes" in the "save data not loaded correctly" dialogue bar, unless you have your backup saves in another folder.
+
+1 - Have your corrupted backup saves on your desktop
+
+2 - Start a new game on Dark Souls 2, as soon as you spawn in Things Betwixt quit to the main menu, but do not quit the program.
+
+3 - Click the screen again bringing you to the main menu.
+
+4 - Alt-Tab out of the game without quitting it and navigate to the folder C:\Users"user"\AppData\Roaming\DarkSoulsII\
+
+5 - Go into the folder in this folder that has a bunch of random numbers on it
+
+6 - With the game still on the main menu, take your old corrupted Dark Souls 2 saves from your desktop (should look like "DARKSII0000.sl2") and overwrite the newly created one in this folder. STILL KEEP A COPY OF THE OLD CORRUPTED SAVE JUST IN CASE.
+
+7 - Now, go back into the still running Dark Souls 2 game, and click on "Continue".
+
+8 - Try loading the newly created character. This should fail, and bring you back to the "Continue" menu. However now, you should see your old saves.
+
+9 - Try loading one of your old saves. This will fail. Now go back one screen to the main menu, and click on "New Game"
+
+10 - Once again, quit the game once you spawn in Things Betwixt, and now you should be able to load your old corrupted backup saves.
